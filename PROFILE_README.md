@@ -2,7 +2,7 @@
 
 # Sérgio Bastos
 
-### `Full-Stack Developer (Foco em Frontend) & Software Engineering Enthusiast`
+### `Full-Stack Developer (Foco em Frontend)`
 
 <p align="center">
   <a href="https://baxtoos.github.io/portifolio/">
