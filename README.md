@@ -2,7 +2,17 @@
 
 # Sérgio Bastos
 
-### `Full-Stack Developer (Foco em Frontend)`
+### `Desenvolvedor Full-Stack (Foco em Frontend) & Engenheiro de Software`
+
+<br />
+
+<a href="https://baxtoos.github.io/portifolio/" target="_blank" title="Clique para abrir o Portfólio Interativo">
+  <img src="https://raw.githubusercontent.com/Baxtoos/portifolio/main/assets/images/portfolio-preview.png" alt="Sérgio Bastos — Portfólio Interativo WebGL" width="100%" />
+</a>
+
+<p align="center">
+  <sub>🌐 <b>Portfólio Interativo Online:</b> Clique no banner acima ou no botão abaixo para explorar o site completo com Three.js WebGL, terminal e projetos em produção!</sub>
+</p>
 
 <p align="center">
   <a href="https://baxtoos.github.io/portifolio/">
